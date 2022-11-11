@@ -45,7 +45,7 @@ result
 
 ![](./img/100sample_5recursion_uniform.png)
 
-render image
+* navie integrator image
 
 ![](./img/smooth_render.png)
 
