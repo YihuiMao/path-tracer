@@ -29,25 +29,28 @@ and global illumination at each ray intersection to produce a more converged ima
 
 result
 ------------------
-100 sample 1 recusrion cos weight
 
-![](./img/100Sample_1recursion_cos.png)
-
-100 sample 5 recursrion cos weight
-
-![](./img/100Sample_5recusion_cos.png)
-
-100 sample 1 recusrion uniform
-
-![](./img/100sample_1recursion_uniform.png)
-
-100 sample 5 recusrion uniform
-
-![](./img/100sample_5recursion_uniform.png)
 
 * navie integrator image
 
 ![](./img/smooth_render.png)
+
+
+* direct lighting integrator image
+![](./img/direct.png)
+
+* point light with full lighting Integrator
+![](./img/pointLight.png)
+
+* spot light with full lighting Integrator
+![](./img/spotlight.png)
+
+* thin lens with full lighting Integrator
+![](./img/thinlens.png)
+
+* Glass and mirror material with full lighting Integrator
+![](./img/custom1.png)
+
 
 
 
