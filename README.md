@@ -37,18 +37,23 @@ result
 
 
 * direct lighting integrator image
+
 ![](./img/direct.png)
 
 * point light with full lighting Integrator
+
 ![](./img/pointLight.png)
 
 * spot light with full lighting Integrator
+
 ![](./img/spotlight.png)
 
 * thin lens with full lighting Integrator
+
 ![](./img/thinlens.png)
 
 * Glass and mirror material with full lighting Integrator
+
 ![](./img/custom1.png)
 
 
